@@ -31,3 +31,15 @@ body {
 span.glyphicon {
     padding-right: 5px;
 }
+
+span.novogeek {
+	font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	line-height: 1.8px;
+}
+
+div.portfolio {
+    padding-top: 10px;
+}
