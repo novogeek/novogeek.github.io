@@ -2,6 +2,4 @@
 Krishna Chaitanya's personal website
 
 #Hi, there! 
-## Thanks for dropping by. I am restructuring my site. I have moved my blog to [blog.novogeek.com](http://blog.novogeek.com). Stay glued for updates!
-
-### And finally, I am the owner of this host ;) View my publicly-auditable identity here: [https://keybase.io/novogeek](https://keybase.io/novogeek)
+This repo has the source code for my website at http://novogeek.github.io. I have used github pages and added a custom domain (http://novogeek.com/) that does a DNS redirect to http://novogeek.github.io. 
